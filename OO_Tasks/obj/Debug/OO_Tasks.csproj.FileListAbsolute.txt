@@ -1,0 +1,12 @@
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\OO_Tasks\OO_Tasks\bin\Debug\OO_Tasks.dll
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\OO_Tasks\OO_Tasks\bin\Debug\OO_Tasks.pdb
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.csprojAssemblyReference.cache
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.csproj.CoreCompileInputs.cache
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.dll
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.pdb
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\Week1\OO_Tasks\OO_Tasks\bin\Debug\OO_Tasks.dll
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\Week1\OO_Tasks\OO_Tasks\bin\Debug\OO_Tasks.pdb
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\Week1\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.csprojAssemblyReference.cache
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\Week1\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.csproj.CoreCompileInputs.cache
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\Week1\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.dll
+D:\OneDrive - Swinburne University\Swinburne University\Diploma of Software Development\2019-VE02-ICTPRG418-Apply intermediate programming\Week1\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.pdb
